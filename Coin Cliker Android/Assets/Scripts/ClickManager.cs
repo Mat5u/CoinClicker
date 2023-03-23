@@ -58,7 +58,7 @@ public class ClickManager : MonoBehaviour
         scoreIncreasedPerSecond = 1;
         x = 0f;
 
-        //WE MUST EST ALL DEFAULT VARIABLES BEFORE LOAD
+        //WE MUST SET ALL DEFAULT VARIABLES BEFORE LOAD
         shop1prize = 100;
         shop2prize = 1000;
         shop3prize = 8500;
